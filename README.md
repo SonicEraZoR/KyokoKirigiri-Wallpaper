@@ -1,5 +1,5 @@
 # KyokoKirigiri-Wallpaper
- Wallpaper of Kyoko Kirigiri's introduction from Danganronpa 1
+ Project file of live wallpaper of Kyoko Kirigiri's introduction from Danganronpa 1 for Wallpaper Engine
 
 ## "Building"
 Download/clone the repo. Copy "kyoko_introducti" to "Steam\steamapps\common\wallpaper_engine\projects\myprojects\" and then open the wallpaper in the Wallpaper Engine editor.
